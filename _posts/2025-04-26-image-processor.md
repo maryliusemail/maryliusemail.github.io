@@ -1,9 +1,9 @@
 ---
-title: Image Proccesor + Classification Program
+title: Image Proccesor + KNN Classification Program
 date: 2025-04-26 21:05:32 +/-TTTT
 categories: [data science, python]
 tags: [projects]     # TAG names should always be lowercase
-description: This project builds a basic image processing system and a simple machine learning classifier from scratch.
+description: This project builds a basic image processing system and a KNN machine learning classifier from scratch.
 image:
   path: /assets/img/previews/image-processor-preview.png
   # alt: image alternative text
