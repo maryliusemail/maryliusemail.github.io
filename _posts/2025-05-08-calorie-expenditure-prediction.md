@@ -314,7 +314,8 @@ plt.show()
 
 
     
-![png](output_8_0.png)
+![output_8_0](https://github.com/user-attachments/assets/ea77274f-a800-441a-868d-d3cca7f95b6b)
+
     
 
 
@@ -330,7 +331,8 @@ plt.show()
 
 
     
-![png](output_10_0.png)
+![output_10_0](https://github.com/user-attachments/assets/de02aedf-24e7-47d6-83f4-dd09846d6ab0)
+
     
 
 
@@ -347,8 +349,7 @@ plt.show()
 
 
     
-![png](output_12_0.png)
-    
+![output_12_0](https://github.com/user-attachments/assets/7f19f0c4-4ff1-4450-b3f8-31ccf4845688)
 
 
 # 🎯 Purpose of the Model  
@@ -838,9 +839,9 @@ evaluate_and_plot(rf_model, "Random Forest", X_train, X_val, y_train, y_val)
 
 
     
-![png](output_26_1.png)
     
 
+![output_26_1](https://github.com/user-attachments/assets/89451b74-0a10-4c93-a26d-fc18d81006ab)
 
 
 
@@ -869,9 +870,8 @@ evaluate_and_plot(gbr_model, "Gradient Boosting", X_train, X_val, y_train, y_val
     Gradient Boosting - Validation RMSLE: 0.1294
 
 
+![output_30_1](https://github.com/user-attachments/assets/daa7627b-fea0-4612-a825-50c4e095fcc3)
 
-    
-![png](output_30_1.png)
     
 
 
@@ -903,10 +903,10 @@ evaluate_and_plot(xgb_model, "XGBoost", X_train, X_val, y_train, y_val)
 
 
 
-    
-![png](output_34_1.png)
+
     
 
+![output_34_1](https://github.com/user-attachments/assets/729fcbda-9062-461e-9b81-342ef410d2a9)
 
 
 
