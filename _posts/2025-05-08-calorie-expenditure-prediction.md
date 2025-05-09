@@ -6,7 +6,7 @@ tags: [projects]     # TAG names should always be lowercase
 description: This project uses supervised machine learning models to predict the number of calories burned during a workout based on biometric and activity features such as age, weight, duration, heart rate, and body temperature. The goal is to support personalized fitness insights through accurate energy expenditure estimation.
 
 image:
-  # path: /assets/img/previews/mts-transit-visualization.png
+  path: /assets/img/previews/Predicting_Calories.png
   # alt: image alternative text
 ---
 
